@@ -1,0 +1,282 @@
+<html>
+<head>
+	<meta charset="UTF-8">
+</head>
+<body>
+<h2>KiBoM PCB Bill of Materials</h2>
+<table border="1">
+<tr><td>Source File</td><td>/home/lgperren/Documentos/DCI/CESE_DCI_TP_Final/CESE_DCI_TP_Final.sch</td></tr>
+<tr><td>BoM Date</td><td>sb 02 nov 2019 18:24:18 -03</td></tr>
+<tr><td>Schematic Version</td><td>1.0</td></tr>
+<tr><td>Schematic Date</td><td></td></tr>
+<tr><td>PCB Variant</td><td>[u'default']</td></tr>
+<tr><td>KiCad Version</td><td>Eeschema 5.0.2-bee76a0~70~ubuntu18.04.1</td></tr>
+<tr><td>Component Groups</td><td>22</td></tr>
+<tr><td>Component Count (per PCB)</td><td>51</td></tr>
+<tr><td>Fitted Components (per PCB)</td><td>51</td></tr>
+<tr><td>Number of PCBs</td><td>1</td></tr>
+<tr><td>Total Component Count<br>(for 1 PCBs)</td><td>51</td></tr>
+</table>
+<br>
+<h2>Component Groups</h2>
+<p style="background-color: #FFE6B3">KiCad Fields (default)</p>
+<p style="background-color: #E6FFEE">Generated Fields</p>
+<p style="background-color: #E6F9FF">User Fields</p>
+<p style="background-color: #FF8080">Empty Fields</p>
+<table border="1">
+<tr>
+	<th></th>
+	<th align="center" bgcolor="#FFE6B3">Description</th>
+	<th align="center" bgcolor="#FFE6B3">Part</th>
+	<th align="center" bgcolor="#FFE6B3">References</th>
+	<th align="center" bgcolor="#FFE6B3">Value</th>
+	<th align="center" bgcolor="#FFE6B3">Footprint</th>
+	<th align="center" bgcolor="#E6FFEE">Quantity Per PCB</th>
+	<th align="center" bgcolor="#FFE6B3">Datasheet</th>
+	<th align="center" bgcolor="#E6F9FF">Digi-Key Number</th>
+</tr>
+<tr>
+	<td align="center">1</td>
+	<td align="center" bgcolor=#FFE6B3>Unpolarized capacitor, small symbol</td>
+	<td align="center" bgcolor=#FFE6B3>C_Small</td>
+	<td align="center" bgcolor=#FFE6B3>C1 C2 C3 C4 C7</td>
+	<td align="center" bgcolor=#FFE6B3>0.1uF</td>
+	<td align="center" bgcolor=#FFE6B3>C_1206_3216Metric_Pad1.42x1.75mm_HandSolder</td>
+	<td align="center" bgcolor=#E6FFEE>5</td>
+	<td align="center" bgcolor=#FF8080>~</td>
+	<td align="center" bgcolor=#E6F9FF>399-7357-2-ND</td>
+</tr>
+<tr>
+	<td align="center">2</td>
+	<td align="center" bgcolor=#FFE6B3>Polarized capacitor, small US symbol</td>
+	<td align="center" bgcolor=#FFE6B3>CP1_Small</td>
+	<td align="center" bgcolor=#FFE6B3>C8</td>
+	<td align="center" bgcolor=#FFE6B3>1000uF x 25V</td>
+	<td align="center" bgcolor=#FFE6B3>CP_Radial_D16.0mm_P7.50mm</td>
+	<td align="center" bgcolor=#E6FFEE>1</td>
+	<td align="center" bgcolor=#FF8080>~</td>
+	<td align="center" bgcolor=#E6F9FF>493-14604-3-ND</td>
+</tr>
+<tr>
+	<td align="center">3</td>
+	<td align="center" bgcolor=#FFE6B3>Unpolarized capacitor, small symbol</td>
+	<td align="center" bgcolor=#FFE6B3>C_Small</td>
+	<td align="center" bgcolor=#FFE6B3>C5</td>
+	<td align="center" bgcolor=#FFE6B3>1nF</td>
+	<td align="center" bgcolor=#FFE6B3>C_1206_3216Metric_Pad1.42x1.75mm_HandSolder</td>
+	<td align="center" bgcolor=#E6FFEE>1</td>
+	<td align="center" bgcolor=#FF8080>~</td>
+	<td align="center" bgcolor=#E6F9FF>399-17173-2-ND</td>
+</tr>
+<tr>
+	<td align="center">4</td>
+	<td align="center" bgcolor=#FFE6B3>Polarized capacitor, small US symbol</td>
+	<td align="center" bgcolor=#FFE6B3>CP1_Small</td>
+	<td align="center" bgcolor=#FFE6B3>C6</td>
+	<td align="center" bgcolor=#FFE6B3>470uF</td>
+	<td align="center" bgcolor=#FFE6B3>CP_Radial_D10.0mm_P5.00mm</td>
+	<td align="center" bgcolor=#E6FFEE>1</td>
+	<td align="center" bgcolor=#FF8080>~</td>
+	<td align="center" bgcolor=#E6F9FF>P10386TB-ND</td>
+</tr>
+<tr>
+	<td align="center">5</td>
+	<td align="center" bgcolor=#FFE6B3>1000V 1A General Purpose Rectifier Diode, DO-41</td>
+	<td align="center" bgcolor=#FFE6B3>1N4007</td>
+	<td align="center" bgcolor=#FFE6B3>D3 D4</td>
+	<td align="center" bgcolor=#FFE6B3>1N4007</td>
+	<td align="center" bgcolor=#FFE6B3>D_DO-41_SOD81_P10.16mm_Horizontal</td>
+	<td align="center" bgcolor=#E6FFEE>2</td>
+	<td align="center" bgcolor=#FFE6B3><a href="http://www.vishay.com/docs/88503/1n4001.pdf">http://www.vishay.com/docs/88503/1n4001.pdf</a></td>
+	<td align="center" bgcolor=#E6F9FF>1N4007FSCT-ND</td>
+</tr>
+<tr>
+	<td align="center">6</td>
+	<td align="center" bgcolor=#FFE6B3>100V 0.15A standard switching diode, DO-35</td>
+	<td align="center" bgcolor=#FFE6B3>1N4148</td>
+	<td align="center" bgcolor=#FFE6B3>D1 D2</td>
+	<td align="center" bgcolor=#FFE6B3>1N4148</td>
+	<td align="center" bgcolor=#FFE6B3>D_DO-35_SOD27_P7.62mm_Horizontal</td>
+	<td align="center" bgcolor=#E6FFEE>2</td>
+	<td align="center" bgcolor=#FFE6B3><a href="http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf">http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf</a></td>
+	<td align="center" bgcolor=#E6F9FF>1N4148FS-ND</td>
+</tr>
+<tr>
+	<td align="center">7</td>
+	<td align="center" bgcolor=#FFE6B3>Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</td>
+	<td align="center" bgcolor=#FFE6B3>Screw_Terminal_01x02</td>
+	<td align="center" bgcolor=#FFE6B3>J2 J3</td>
+	<td align="center" bgcolor=#FFE6B3>12V POWER</td>
+	<td align="center" bgcolor=#FFE6B3>TerminalBlock_bornier-2_P5.08mm</td>
+	<td align="center" bgcolor=#E6FFEE>2</td>
+	<td align="center" bgcolor=#FF8080>~</td>
+	<td align="center" bgcolor=#E6F9FF>A113320-ND</td>
+</tr>
+<tr>
+	<td align="center">8</td>
+	<td align="center" bgcolor=#FFE6B3>Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</td>
+	<td align="center" bgcolor=#FFE6B3>Conn_01x05</td>
+	<td align="center" bgcolor=#FFE6B3>J1</td>
+	<td align="center" bgcolor=#FFE6B3>Signal Inputs</td>
+	<td align="center" bgcolor=#FFE6B3>PinHeader_1x05_P2.54mm_Vertical</td>
+	<td align="center" bgcolor=#E6FFEE>1</td>
+	<td align="center" bgcolor=#FF8080>~</td>
+	<td align="center" bgcolor=#E6F9FF>732-5318-ND</td>
+</tr>
+<tr>
+	<td align="center">9</td>
+	<td align="center" bgcolor=#FFE6B3>DC Motor</td>
+	<td align="center" bgcolor=#FFE6B3>Motor_DC</td>
+	<td align="center" bgcolor=#FFE6B3>M1</td>
+	<td align="center" bgcolor=#FFE6B3>Motor 12V CC</td>
+	<td align="center" bgcolor=#FFE6B3>TerminalBlock_bornier-2_P5.08mm</td>
+	<td align="center" bgcolor=#E6FFEE>1</td>
+	<td align="center" bgcolor=#FF8080>~</td>
+	<td align="center" bgcolor=#E6F9FF>A113320-ND</td>
+</tr>
+<tr>
+	<td align="center">10</td>
+	<td align="center" bgcolor=#FFE6B3>0.8A Ic, 45V Vce, NPN Transistor, TO-92</td>
+	<td align="center" bgcolor=#FFE6B3>BC337</td>
+	<td align="center" bgcolor=#FFE6B3>Q5 Q6</td>
+	<td align="center" bgcolor=#FFE6B3>BC337</td>
+	<td align="center" bgcolor=#FFE6B3>TO-92_Inline</td>
+	<td align="center" bgcolor=#E6FFEE>2</td>
+	<td align="center" bgcolor=#FFE6B3><a href="http://www.nxp.com/documents/data_sheet/BC817_BC817W_BC337.pdf">http://www.nxp.com/documents/data_sheet/BC817_BC817W_BC337.pdf</a></td>
+	<td align="center" bgcolor=#E6F9FF>BC33725TFRTR-ND</td>
+</tr>
+<tr>
+	<td align="center">11</td>
+	<td align="center" bgcolor=#FFE6B3>47A Id, 55V Vds, Single N-Channel HEXFET Power MOSFET, 22mOhm Ron, TO-220AB</td>
+	<td align="center" bgcolor=#FFE6B3>IRLZ44N</td>
+	<td align="center" bgcolor=#FFE6B3>Q1 Q2 Q3 Q4</td>
+	<td align="center" bgcolor=#FFE6B3>IRFZ44NS</td>
+	<td align="center" bgcolor=#FFE6B3>TO-263-2</td>
+	<td align="center" bgcolor=#E6FFEE>4</td>
+	<td align="center" bgcolor=#FFE6B3><a href="http://www.irf.com/product-info/datasheets/data/irlz44n.pdf">http://www.irf.com/product-info/datasheets/data/irlz44n.pdf</a></td>
+	<td align="center" bgcolor=#E6F9FF>IRFZ44NSTRLPBFTR-ND</td>
+</tr>
+<tr>
+	<td align="center">12</td>
+	<td align="center" bgcolor=#FFE6B3>Resistor</td>
+	<td align="center" bgcolor=#FFE6B3>R</td>
+	<td align="center" bgcolor=#FFE6B3>R1 R2 R3 R4</td>
+	<td align="center" bgcolor=#FFE6B3>10</td>
+	<td align="center" bgcolor=#FFE6B3>R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</td>
+	<td align="center" bgcolor=#E6FFEE>4</td>
+	<td align="center" bgcolor=#FF8080>~</td>
+	<td align="center" bgcolor=#E6F9FF>CRM1206-FX-10R0ELFCT-ND</td>
+</tr>
+<tr>
+	<td align="center">13</td>
+	<td align="center" bgcolor=#FFE6B3>Resistor</td>
+	<td align="center" bgcolor=#FFE6B3>R</td>
+	<td align="center" bgcolor=#FFE6B3>R7 R8 R11 R14 R17 R21</td>
+	<td align="center" bgcolor=#FFE6B3>10k</td>
+	<td align="center" bgcolor=#FFE6B3>R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</td>
+	<td align="center" bgcolor=#E6FFEE>6</td>
+	<td align="center" bgcolor=#FF8080>~</td>
+	<td align="center" bgcolor=#E6F9FF>311-10KERTR-ND</td>
+</tr>
+<tr>
+	<td align="center">14</td>
+	<td align="center" bgcolor=#FFE6B3>Resistor</td>
+	<td align="center" bgcolor=#FFE6B3>R</td>
+	<td align="center" bgcolor=#FFE6B3>R12 R13</td>
+	<td align="center" bgcolor=#FFE6B3>15k</td>
+	<td align="center" bgcolor=#FFE6B3>R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</td>
+	<td align="center" bgcolor=#E6FFEE>2</td>
+	<td align="center" bgcolor=#FF8080>~</td>
+	<td align="center" bgcolor=#E6F9FF>A129824TR-ND</td>
+</tr>
+<tr>
+	<td align="center">15</td>
+	<td align="center" bgcolor=#FFE6B3>Resistor</td>
+	<td align="center" bgcolor=#FFE6B3>R</td>
+	<td align="center" bgcolor=#FFE6B3>R9 R16 R18 R20 R22</td>
+	<td align="center" bgcolor=#FFE6B3>1k</td>
+	<td align="center" bgcolor=#FFE6B3>R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</td>
+	<td align="center" bgcolor=#E6FFEE>5</td>
+	<td align="center" bgcolor=#FF8080>~</td>
+	<td align="center" bgcolor=#E6F9FF>CR1206-JW-102ELFTR-ND</td>
+</tr>
+<tr>
+	<td align="center">16</td>
+	<td align="center" bgcolor=#FFE6B3>Resistor</td>
+	<td align="center" bgcolor=#FFE6B3>R</td>
+	<td align="center" bgcolor=#FFE6B3>R5 R6</td>
+	<td align="center" bgcolor=#FFE6B3>220k</td>
+	<td align="center" bgcolor=#FFE6B3>R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</td>
+	<td align="center" bgcolor=#E6FFEE>2</td>
+	<td align="center" bgcolor=#FF8080>~</td>
+	<td align="center" bgcolor=#E6F9FF>A130566TR-ND</td>
+</tr>
+<tr>
+	<td align="center">17</td>
+	<td align="center" bgcolor=#FFE6B3>Resistor</td>
+	<td align="center" bgcolor=#FFE6B3>R</td>
+	<td align="center" bgcolor=#FFE6B3>R10 R15 R19</td>
+	<td align="center" bgcolor=#FFE6B3>680</td>
+	<td align="center" bgcolor=#FFE6B3>R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</td>
+	<td align="center" bgcolor=#E6FFEE>3</td>
+	<td align="center" bgcolor=#FF8080>~</td>
+	<td align="center" bgcolor=#E6F9FF>311-680FRCT-ND</td>
+</tr>
+<tr>
+	<td align="center">18</td>
+	<td align="center" bgcolor=#FFE6B3>±20A Bidirectional Hall-Effect Current Sensor, +5.0V supply, 100mV/A, SOIC-8</td>
+	<td align="center" bgcolor=#FFE6B3>ACS712xLCTR-20A</td>
+	<td align="center" bgcolor=#FFE6B3>U5</td>
+	<td align="center" bgcolor=#FFE6B3>ACS712</td>
+	<td align="center" bgcolor=#FFE6B3>SOIC-8_3.9x4.9mm_P1.27mm</td>
+	<td align="center" bgcolor=#E6FFEE>1</td>
+	<td align="center" bgcolor=#FFE6B3><a href="http://www.allegromicro.com/~/media/Files/Datasheets/ACS712-Datasheet.ashx?la=en">http://www.allegromicro.com/~/media/Files/Datasheets/ACS712-Datasheet.ashx?la=en</a></td>
+	<td align="center" bgcolor=#E6F9FF>620-1190-2-ND</td>
+</tr>
+<tr>
+	<td align="center">19</td>
+	<td align="center" bgcolor=#FFE6B3>High Frequency Full Bridge FET Driver, 2.5A, 80V, DIP-20/SOIC-20</td>
+	<td align="center" bgcolor=#FFE6B3>HIP4081A</td>
+	<td align="center" bgcolor=#FFE6B3>U1</td>
+	<td align="center" bgcolor=#FFE6B3>HIP4081A</td>
+	<td align="center" bgcolor=#FFE6B3>DIP-20_W7.62mm_Socket</td>
+	<td align="center" bgcolor=#E6FFEE>1</td>
+	<td align="center" bgcolor=#FFE6B3><a href="http://www.intersil.com/content/dam/Intersil/documents/hip4/hip4080a.pdf">http://www.intersil.com/content/dam/Intersil/documents/hip4/hip4080a.pdf</a></td>
+	<td align="center" bgcolor=#E6F9FF>HIP4081AIPZ-ND</td>
+</tr>
+<tr>
+	<td align="center">20</td>
+	<td align="center" bgcolor=#FFE6B3>Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8</td>
+	<td align="center" bgcolor=#FFE6B3>LM358</td>
+	<td align="center" bgcolor=#FFE6B3>U6</td>
+	<td align="center" bgcolor=#FFE6B3>LM358</td>
+	<td align="center" bgcolor=#FFE6B3>SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.35x2.35mm</td>
+	<td align="center" bgcolor=#E6FFEE>1</td>
+	<td align="center" bgcolor=#FFE6B3><a href="http://www.ti.com/lit/ds/symlink/lm2904-n.pdf">http://www.ti.com/lit/ds/symlink/lm2904-n.pdf</a></td>
+	<td align="center" bgcolor=#E6F9FF>497-1591-2-ND</td>
+</tr>
+<tr>
+	<td align="center">21</td>
+	<td align="center" bgcolor=#FFE6B3>Positive 1A 35V Linear Regulator, Fixed Output 5V, TO-220</td>
+	<td align="center" bgcolor=#FFE6B3>LM7805_TO220</td>
+	<td align="center" bgcolor=#FFE6B3>U7</td>
+	<td align="center" bgcolor=#FFE6B3>LM7805</td>
+	<td align="center" bgcolor=#FFE6B3>TO-220-3_Vertical</td>
+	<td align="center" bgcolor=#E6FFEE>1</td>
+	<td align="center" bgcolor=#FFE6B3><a href="http://www.fairchildsemi.com/ds/LM/LM7805.pdf">http://www.fairchildsemi.com/ds/LM/LM7805.pdf</a></td>
+	<td align="center" bgcolor=#E6F9FF>296-47192-ND</td>
+</tr>
+<tr>
+	<td align="center">22</td>
+	<td align="center" bgcolor=#FFE6B3>DC Optocoupler, Vce 35V, CTR 50-300%, DIP4</td>
+	<td align="center" bgcolor=#FFE6B3>PC817</td>
+	<td align="center" bgcolor=#FFE6B3>U2 U3 U4</td>
+	<td align="center" bgcolor=#FFE6B3>PC817</td>
+	<td align="center" bgcolor=#FFE6B3>DIP-4_W7.62mm</td>
+	<td align="center" bgcolor=#E6FFEE>3</td>
+	<td align="center" bgcolor=#FFE6B3><a href="http://www.soselectronic.cz/a_info/resource/d/pc817.pdf">http://www.soselectronic.cz/a_info/resource/d/pc817.pdf</a></td>
+	<td align="center" bgcolor=#E6F9FF>EL817-ND</td>
+</tr>
+</table>
+<br><br>
+</body></html>
