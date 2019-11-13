@@ -3288,67 +3288,67 @@ Wire Wire Line
 $Comp
 L Mechanical:MountingHole H2
 U 1 1 5DB7B7E9
-P 5550 6850
-F 0 "H2" H 5350 6850 50  0000 L CNN
-F 1 "MountingHole" H 5300 6750 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.7mm_M2.5" H 5550 6850 50  0001 C CNN
-F 3 "~" H 5550 6850 50  0001 C CNN
-	1    5550 6850
+P 5550 6600
+F 0 "H2" H 5350 6600 50  0000 L CNN
+F 1 "MountingHole" H 5300 6500 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.7mm_M2.5" H 5550 6600 50  0001 C CNN
+F 3 "~" H 5550 6600 50  0001 C CNN
+	1    5550 6600
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H1
 U 1 1 5DB7B90E
-P 5550 6500
-F 0 "H1" H 5350 6500 50  0000 L CNN
-F 1 "MountingHole" H 5300 6400 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.7mm_M2.5" H 5550 6500 50  0001 C CNN
-F 3 "~" H 5550 6500 50  0001 C CNN
-	1    5550 6500
+P 5550 6250
+F 0 "H1" H 5350 6250 50  0000 L CNN
+F 1 "MountingHole" H 5300 6150 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.7mm_M2.5" H 5550 6250 50  0001 C CNN
+F 3 "~" H 5550 6250 50  0001 C CNN
+	1    5550 6250
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H3
 U 1 1 5DB7B9D8
-P 6150 6850
-F 0 "H3" H 5950 6850 50  0000 L CNN
-F 1 "MountingHole" H 5900 6750 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.7mm_M2.5" H 6150 6850 50  0001 C CNN
-F 3 "~" H 6150 6850 50  0001 C CNN
-	1    6150 6850
+P 6150 6600
+F 0 "H3" H 5950 6600 50  0000 L CNN
+F 1 "MountingHole" H 5900 6500 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.7mm_M2.5" H 6150 6600 50  0001 C CNN
+F 3 "~" H 6150 6600 50  0001 C CNN
+	1    6150 6600
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H4
 U 1 1 5DB7BAEF
-P 6150 6500
-F 0 "H4" H 5950 6500 50  0000 L CNN
-F 1 "MountingHole" H 5900 6400 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.7mm_M2.5" H 6150 6500 50  0001 C CNN
-F 3 "~" H 6150 6500 50  0001 C CNN
-	1    6150 6500
+P 6150 6250
+F 0 "H4" H 5950 6250 50  0000 L CNN
+F 1 "MountingHole" H 5900 6150 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.7mm_M2.5" H 6150 6250 50  0001 C CNN
+F 3 "~" H 6150 6250 50  0001 C CNN
+	1    6150 6250
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole F1
 U 1 1 5DBBB4F3
-P 5550 7200
-F 0 "F1" H 5350 7200 50  0000 L CNN
-F 1 "Fiducial" H 5400 7100 50  0000 L CNN
-F 2 "Fiducial:Fiducial_0.5mm_Dia_1mm_Outer" H 5550 7200 50  0001 C CNN
-F 3 "~" H 5550 7200 50  0001 C CNN
-	1    5550 7200
+P 5550 6950
+F 0 "F1" H 5350 6950 50  0000 L CNN
+F 1 "Fiducial" H 5400 6850 50  0000 L CNN
+F 2 "Fiducial:Fiducial_0.5mm_Dia_1mm_Outer" H 5550 6950 50  0001 C CNN
+F 3 "~" H 5550 6950 50  0001 C CNN
+	1    5550 6950
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole F2
 U 1 1 5DBBB774
-P 6150 7200
-F 0 "F2" H 5950 7200 50  0000 L CNN
-F 1 "Fiducial" H 6000 7100 50  0000 L CNN
-F 2 "Fiducial:Fiducial_0.5mm_Dia_1mm_Outer" H 6150 7200 50  0001 C CNN
-F 3 "~" H 6150 7200 50  0001 C CNN
-	1    6150 7200
+P 6150 6950
+F 0 "F2" H 5950 6950 50  0000 L CNN
+F 1 "Fiducial" H 6000 6850 50  0000 L CNN
+F 2 "Fiducial:Fiducial_0.5mm_Dia_1mm_Outer" H 6150 6950 50  0001 C CNN
+F 3 "~" H 6150 6950 50  0001 C CNN
+	1    6150 6950
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -3367,4 +3367,26 @@ Wire Wire Line
 	9050 2100 9400 2100
 Wire Wire Line
 	9500 2100 10150 2100
+$Comp
+L Mechanical:MountingHole F3
+U 1 1 5DCCB5ED
+P 5550 7300
+F 0 "F3" H 5350 7300 50  0000 L CNN
+F 1 "Fiducial" H 5400 7200 50  0000 L CNN
+F 2 "Fiducial:Fiducial_0.5mm_Dia_1mm_Outer" H 5550 7300 50  0001 C CNN
+F 3 "~" H 5550 7300 50  0001 C CNN
+	1    5550 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole F4
+U 1 1 5DCCB6E8
+P 6150 7300
+F 0 "F4" H 5950 7300 50  0000 L CNN
+F 1 "Fiducial" H 6000 7200 50  0000 L CNN
+F 2 "Fiducial:Fiducial_0.5mm_Dia_1mm_Outer" H 6150 7300 50  0001 C CNN
+F 3 "~" H 6150 7300 50  0001 C CNN
+	1    6150 7300
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
